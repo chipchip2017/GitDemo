@@ -6,7 +6,7 @@ class BaseClass:
         loggername = inspect.stack()[1][3]
         logger = logging.getLogger(loggername)
 
-        fileHander = logging.FileHandler("testlog.log")
+        fileHander = logging.FileHandler("testlog1.log")
         format = logging.Formatter("%(asctime)s : %(levelname)s: %(name)s: %(message)s")
         fileHander.setFormatter(format)
 
