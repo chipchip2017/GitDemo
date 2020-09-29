@@ -1,0 +1,17 @@
+2020-09-27 15:25:14,828 : INFO: PyTest.test_logging: Inform Statement
+2020-09-27 15:25:14,829 : WARNING: PyTest.test_logging: Warning
+2020-09-27 15:25:14,829 : ERROR: PyTest.test_logging: Error
+2020-09-27 15:25:14,829 : CRITICAL: PyTest.test_logging: Critical issue
+2020-09-27 15:27:21,408 : DEBUG: PyTest.test_logging: Statement is debug
+2020-09-27 15:27:21,409 : INFO: PyTest.test_logging: Inform Statement
+2020-09-27 15:27:21,409 : WARNING: PyTest.test_logging: Warning
+2020-09-27 15:27:21,410 : ERROR: PyTest.test_logging: Error
+2020-09-27 15:27:21,410 : CRITICAL: PyTest.test_logging: Critical issue
+2020-09-27 15:27:56,598 : CRITICAL: PyTest.test_logging: Critical issue
+2020-09-27 15:41:14,503 : INFO: PyTest.BaseClass: Nhi
+2020-09-27 15:41:14,503 : INFO: PyTest.BaseClass: Nhi
+2020-09-27 15:42:33,874 : INFO: PyTest.BaseClass: Nhi1
+2020-09-27 15:42:33,874 : INFO: PyTest.BaseClass: Nhi1
+2020-09-27 15:47:25,939 : INFO: test_Log: Nhi1
+2020-09-27 15:51:23,500 : CRITICAL: PyTest.test_logging: Critical issue
+2020-09-27 15:51:23,700 : INFO: test_Log: Nhi1
